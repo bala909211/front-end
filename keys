@@ -1,0 +1,63 @@
+<mark>=to highlight a content
+<b>=bold
+<i>=italic
+<u>=underline
+<maruqee>=running text
+<subscript>=sub
+<superscript>=<sup>
+<br>=break
+<p>=paragraph
+<ol>=order list
+<ul>=un order list
+<dl>=description list
+<dt>=description term
+<dd>=description definition
+<q>="quotation"
+&nbsp=erxta space
+<tr>=tablr rowspan
+<td>=table <data 
+<th>=table heading
+rowspan=row merge
+columnspan= column merge
+div=
+
+javascript[ log]
+type
+1.variable
+var{gobal scope}{change value}
+2.let
+{black scope}{change value}
+3.constant
+const{black scope}{no change vlaue}
+
+
+{operators}
+1.arithimatic operators
+{ addition +}
+{sub _}
+{multiple *}
+{division /}
+{modules %}
+{exponenetation  a square** }
+{increment ++ }
+{decrement _ _}
+
+
+2.assignment operators
+3.comparision operators
+{console.log
+{a==b} t0 check the two values is equal are not 
+{a===b} to check the two values and data types
+{a!=b} to check two values is notequal if it is not equal return ture if it is equal reteun false
+{a!==b} to check two both values and data types
+{a<b} greater then to lesser than
+{a>b} less thar to greater than
+{a<=b}
+{a>=b}
+
+
+4.logicial operators
+{&&} twoside are equal
+{||} one side are equal
+logical.log(a!=b || a>b)
+logical.log(a!b && a<b)

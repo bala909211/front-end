@@ -1,0 +1,131 @@
+.p{
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    color: white;
+    padding:30px ;
+    
+}  
+    
+.ii{
+    color: white;
+}
+    .b{
+    text-align: center;
+    color:white;
+    background-color: rgb(52, 158, 158);
+    padding: 10px;
+    height: 270px;
+    }
+
+/* .a:visited{
+color: red;
+} */
+.ii:hover{
+    color: blue;
+}
+
+
+
+    .d{
+        display: flex;
+        justify-content:space-around;
+    }
+    /* .f{
+        color: red;
+    } */
+
+.m{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.q{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+    padding: 20px;
+}
+.j{
+    font-size: 30px;
+    
+}
+.bha{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    
+}
+.t{
+    margin-left:500px ;
+}
+.a{
+    margin-right: 40px;
+    text-decoration-thickness: 60px ;
+}
+
+.l{
+color: white;
+/* margin-right: 40px; */
+
+}
+
+
+.z{
+   border: 2px black solid;
+   padding: 5px; 
+}
+.g{
+    display: grid;
+    justify-content:space-around
+    
+}
+.row{
+    display: flex;
+
+}
+.ii:visited{
+    color: grey;
+}
+a:hover{
+    color: white;
+}
+.aaa{
+    display: grid;
+    grid-template-columns: 100px 100px;
+}
+.ii{
+    background-color: black;
+    color: white;
+}
+.bb{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.j{
+    display: flex;
+    justify-content: space-around;
+}
+.v{
+    font-size: 20px;
+    text-align: start;
+}
+.zz{
+  position:sticky;  
+  bottom:0px;
+  text-align: right;
+  
+}
+
+.k{
+    display: flex;
+    /* width: 400px; */
+}
+.mm{
+    background-color:black;
+    color: white;
+}
+g:hover{
+    color:white;
+}

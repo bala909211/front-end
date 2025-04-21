@@ -1,0 +1,83 @@
+  .box{
+    width: 250px;
+    height: 250px;
+    background-color:#008375;
+    /* display: grid;
+    justify-content: center;
+    text-align: center; */
+    padding: 50px;
+    /* box-shadow:grey; */
+     }
+ .a{
+          position: relative;
+          bottom: 60px;
+          /* right: 27px; */
+        }  
+          
+
+
+.n{
+    background-image: url("https://bootstrapmade.com/content/demo/Impact/assets/img/cta-bg.jpg");
+    padding: 80px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 15px;
+    /* background-color: white; */
+    filter: brightness(90%);
+}
+.z:hover{
+  transition-duration: 1s;
+  transform: scale(1.5);
+
+  
+}  
+/* .bb{
+  display: flex;
+  justify-content:centre;
+  margin-right: 60px;
+} */
+.o{
+  color: black;
+}
+.m{
+  display: grid;
+  justify-content: center;
+  font-size: 12px;
+}
+.u{
+  display: flex;
+  justify-content: space-evenly;
+}
+.x{
+  /* border-radius: 30px; */
+}
+  .cc{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 4px;
+  }
+  .hh{
+    background-color: #008375;
+  
+  }
+  
+
+  .accordion-button:hover{
+    color: #008375 !important;
+  }
+  .ss{
+    color: white;
+   
+}
+.containersk{
+    display: grid;
+    justify-content: space-around;
+}
+ .x{
+  background-color:  rgb(12, 94, 94);
+ }
+ .hh :hover{
+color: white;
+ }
